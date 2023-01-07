@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1673085010415" clover="3.2.0">
+  <project timestamp="1673085010415" name="All files">
+    <metrics statements="38" coveredstatements="25" conditionals="8" coveredconditionals="4" methods="16" coveredmethods="10" elements="62" coveredelements="39" complexity="0" loc="38" ncloc="38" packages="1" files="1" classes="1"/>
+    <file name="add.js" path="D:\Microverse Projects\Jest_Test\src\modules\add.js">
+      <metrics statements="38" coveredstatements="25" conditionals="8" coveredconditionals="4" methods="16" coveredmethods="10"/>
+      <line num="3" count="5" type="stmt"/>
+      <line num="4" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="5" type="stmt"/>
+      <line num="15" count="5" type="stmt"/>
+      <line num="16" count="5" type="stmt"/>
+      <line num="17" count="5" type="stmt"/>
+      <line num="18" count="5" type="stmt"/>
+      <line num="19" count="7" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="34" count="3" type="stmt"/>
+      <line num="39" count="3" type="stmt"/>
+      <line num="40" count="3" type="stmt"/>
+      <line num="41" count="3" type="stmt"/>
+      <line num="44" count="1" type="stmt"/>
+      <line num="45" count="0" type="stmt"/>
+      <line num="46" count="0" type="stmt"/>
+      <line num="47" count="0" type="stmt"/>
+      <line num="48" count="0" type="stmt"/>
+      <line num="51" count="1" type="stmt"/>
+      <line num="52" count="4" type="stmt"/>
+      <line num="53" count="2" type="stmt"/>
+      <line num="54" count="2" type="stmt"/>
+      <line num="56" count="2" type="stmt"/>
+      <line num="57" count="2" type="stmt"/>
+      <line num="58" count="2" type="stmt"/>
+      <line num="61" count="1" type="stmt"/>
+      <line num="62" count="0" type="stmt"/>
+      <line num="63" count="0" type="stmt"/>
+      <line num="65" count="0" type="stmt"/>
+      <line num="66" count="0" type="stmt"/>
+      <line num="69" count="1" type="stmt"/>
+      <line num="70" count="0" type="stmt"/>
+      <line num="71" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="72" count="0" type="stmt"/>
+      <line num="74" count="0" type="stmt"/>
+      <line num="75" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
