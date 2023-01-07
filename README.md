@@ -167,7 +167,7 @@ Example:
 - Twitter: [@twitter](https://twitter.com/thinus_v_d_v)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/thinus-van-de-venter-99aa26203/)
 
-👤 **Author1**
+👤 **Author2**
 
 - GitHub: [@kazim110](@kazim110)
 - Twitter: [@kazim471](https://twitter.com/kazim471)
