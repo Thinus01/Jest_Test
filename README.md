@@ -38,11 +38,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Awesome Books] <a name="about-project"></a>
+# 📖 [Todo List] <a name="about-project"></a>
 
 > I have built a this project using HTML, CSS and JavaScript .
 
-**[Awesome Books]** 
+**[Todo List]** 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -166,6 +166,12 @@ Example:
 - GitHub: [@Thinus01](@Thinus01)
 - Twitter: [@twitter](https://twitter.com/thinus_v_d_v)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/thinus-van-de-venter-99aa26203/)
+
+👤 **Author1**
+
+- GitHub: [@kazim110](@kazim110)
+- Twitter: [@kazim471](https://twitter.com/kazim471)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kazim-mohammadi/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
